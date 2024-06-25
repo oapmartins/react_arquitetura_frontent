@@ -1,0 +1,52 @@
+header {
+    width: 100%;
+    background-color: #3F5FA0;
+}
+
+header nav {
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: rgb(241, 239, 239);
+    font-size: 1.2rem;
+    padding: 2.0rem;
+}
+
+.profileImage {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.container {
+    padding-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+    column-gap: 80px;
+}
+
+.container .profileName {
+    color: rgb(241, 239, 239);
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.container .profileText {
+    color: rgb(241, 239, 239);
+    font-size: 1.2rem;
+}

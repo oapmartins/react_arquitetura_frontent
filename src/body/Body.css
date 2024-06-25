@@ -1,0 +1,20 @@
+body {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.body-page {
+  background-color: white;
+  justify-content: center;
+  color: black;
+  width: 40%;
+  padding-bottom: 50px;
+}
+
+.body-page a {
+  text-decoration: none;
+  color: rgb(46, 16, 121);
+  font-weight: bold;
+}
