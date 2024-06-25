@@ -16,7 +16,7 @@ function Header() {
                 </ul>
             </nav>
             <div className="container">
-                <img className='profileImage' src="https://livecoins.com.br/wp-content/uploads/2022/11/doge-768x433.jpg.webp" alt="" />
+                <img className='profileImage' src='https://media.licdn.com/dms/image/D4D03AQGt4CMD2OkklA/profile-displayphoto-shrink_400_400/0/1718237575837?e=1724889600&v=beta&t=F6hoErehSIcAt8SEPq6rGMcuWCNDEGNREJF8zzUpURM' alt="Minha Imagem" />
 
                 <div>
                     <p className='profileName'>Octávio Martins</p>
